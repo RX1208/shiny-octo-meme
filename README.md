@@ -4,7 +4,7 @@
 下载
 
 sudo yum install wget -y 
-sudo wget https://github.com/RX1208/shiny-octo-meme/releases/download/3/ssr.sh
+sudo wget https://raw.githubusercontent.com/RX1208/shiny-octo-meme/main/ssr.sh
 
 运行
 
