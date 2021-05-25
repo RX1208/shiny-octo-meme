@@ -1,6 +1,6 @@
 # shiny-octo-meme
-
 #这是red系列的ssr服务部署脚本
+#可以实现端口流量转发
 
 #下载  sudo yum install wget -y 
 
