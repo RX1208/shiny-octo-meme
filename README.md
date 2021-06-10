@@ -8,7 +8,7 @@ sudo wget https://raw.githubusercontent.com/RX1208/shiny-octo-meme/main/ssr.sh
 
 #运行
 
-sudo chmod ssr.sh  &&  sudo bash ssr.sh
+sudo chmod -R 777 ssr.sh  &&  sudo bash ssr.sh
 
 
 
